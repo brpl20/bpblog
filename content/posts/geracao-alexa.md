@@ -1,6 +1,6 @@
 ---
 title: Geração Alexa
-date: 01-01-2021
+date: "janeiro 01, 2021"
 image: ''
 imageAlt: Github
 ---

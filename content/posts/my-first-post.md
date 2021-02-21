@@ -1,7 +1,7 @@
 ---
 ---
 title: My  Post! =D
-date: 01-01-2021
+date: "janeiro 01, 2021"
 image: ''
 imageAlt: Github
 ---
