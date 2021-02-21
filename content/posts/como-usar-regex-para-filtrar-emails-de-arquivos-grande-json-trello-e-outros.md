@@ -1,3 +1,10 @@
+---
+title: Como puxar
+date: 01-01-2021
+image: ''
+imageAlt: Github
+---
+
 # Como Puxar todos os E-mails de um arquivo grande como da exportação das boards do Trello em JSON ou Outros tipos
 
 Recentemente estava organizando alguns contatos antigos para recriar minha newsletter e como eu tinha um "funil" de vendas no Trello, resolvi exportar os contatos antigos daquela ferramenta que estavam organizados em cartões, como é o padrão comum do Trello.
