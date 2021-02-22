@@ -1,5 +1,5 @@
 ---
-title: Como puxar
+title: Como usar RGEX para filtrar emails de arquivos grande json Trello e outros
 date: "January 01, 2021"
 image: ''
 imageAlt: Github
